@@ -1,3 +1,5 @@
 = Title
 
-My content
+.Optional Title
+NOTE: This is an example
+      single-paragraph note.
