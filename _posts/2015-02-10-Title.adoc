@@ -37,3 +37,6 @@ Use: sidebar notes :)
 
 IMPORTANT: Important.
 
+
+[red]#red text# [yellow-background]#on yellow#
+[big]#large# [red yellow-background big]*all bold*
